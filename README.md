@@ -1,4 +1,4 @@
-# odroid-mt701
+# odroid-mt7601
 Kernel Module for Odroid C-1 Linux Kernel 3.10.42
 
 Source cloned from https://github.com/Securityhuns/mt7601.git
@@ -9,9 +9,13 @@ Compiled on:
 
 Just: 
      1.  Copy mt7601Usta.ko to /lib/modules/3.10.25/kernel/drivers/net/wireless
+     
+     2.  Make Directory /etc/Wireless/RT2870STA
 
      2.  Copy RT2870STA.dat to /etc/Wireless/RT2870STA directory
 
      3. Run sudo depmod -a
+     
+     4. Plug wireless receiver in
      
 Credits Source code: (c) Copyright 2002-2013, MediaTek Inc. (released under GPLv2)
