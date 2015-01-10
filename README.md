@@ -1,5 +1,5 @@
 # odroid-mt7601
-Kernel Module for Odroid C-1 Linux Kernel 3.10.42
+Kernel Module for Odroid C-1 Linux Kernel 3.10.43
 
 Source cloned from https://github.com/Securityhuns/mt7601.git
 
