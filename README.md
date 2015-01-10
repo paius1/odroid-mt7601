@@ -8,7 +8,7 @@ Compiled on:
   Linux odroid-wheezy 3.10.43 #10 SMP PREEMPT Sat Dec 27 18:20:28 CET 2014 armv7l GNU/Linux
 
 Just: 
-     1.  Copy mt7601Usta.ko to /lib/modules/3.10.25/kernel/drivers/net/wireless
+     1.  Copy mt7601Usta.ko to /lib/modules/3.10.43/kernel/drivers/net/wireless
      
      2.  Make Directory /etc/Wireless/RT2870STA
 
